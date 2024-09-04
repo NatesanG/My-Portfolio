@@ -139,6 +139,7 @@ header nav li a:target {
 }
 
 #about h1 {
+    text-decoration: underline overline;
     color: cyan;
     text-align: center;
     margin-top: 250px;
@@ -169,6 +170,7 @@ header nav li a:target {
 }
 
 #skills h1 {
+    text-decoration: underline overline;
     color: cyan;
     font-size: 36px;
     text-align: center;
@@ -256,6 +258,7 @@ header nav li a:target {
 #projects h1,
 #achieve h1,
 #contact h1 {
+    text-decoration: underline overline;
     color: cyan;
     text-align: center;
     margin-top: 50px;
