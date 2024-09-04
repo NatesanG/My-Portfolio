@@ -140,6 +140,7 @@ header nav li a:target {
 
 #about h1 {
     text-decoration: underline overline;
+    padding:20px;
     color: cyan;
     text-align: center;
     margin-top: 250px;
